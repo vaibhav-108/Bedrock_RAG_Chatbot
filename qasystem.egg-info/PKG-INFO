@@ -5,6 +5,7 @@ Author: vaibhav-108
 Author-email: vaibhav.b108@gmail.com
 Requires-Dist: langchain
 Requires-Dist: langchainhub
+Requires-Dist: langchain_aws
 Requires-Dist: bs4
 Requires-Dist: tiktoken
 Requires-Dist: openai

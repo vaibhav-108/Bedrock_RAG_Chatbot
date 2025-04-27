@@ -1,5 +1,6 @@
 langchain
 langchainhub
+langchain_aws
 bs4
 tiktoken
 openai

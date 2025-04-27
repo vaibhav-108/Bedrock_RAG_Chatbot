@@ -10,5 +10,6 @@ awscli    #to access model
 streamlit
 pypdf
 faiss-cpu
+langchain_aws
 
 -e .
