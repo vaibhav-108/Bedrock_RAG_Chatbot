@@ -1,0 +1,14 @@
+langchain
+langchainhub
+bs4
+tiktoken
+openai
+boto3==1.38.3  #to connect with AWS
+langchain_community
+chromadb
+awscli    #to access model
+streamlit
+pypdf
+faiss-cpu
+
+-e .
